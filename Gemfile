@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'carrierwave', '~> 0.10.0'
+
+gem 'mini_magick', '~> 4.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
